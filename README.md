@@ -15,4 +15,4 @@ https://xq675.github.io/portfolio/
 - CSS Grid Layout: multiple sections of content are available on each page, where each section is complemented by a responsive image and link, styled with CSS grid
 - JavaScript Interactivity: JavaScript functions are called in response to user actions, such as toggling the menu icon to show navigation bar and hovering over sections to change background color
 
-![Cover of Portfolio project](portfolio.jp)
+![Cover of Portfolio project](portfolio.jpg)
